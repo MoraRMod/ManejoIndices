@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1679878238 source:c:\users\omar\desktop\manejoindices\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	<random>
+	<chrono>
+	<functional>
+
